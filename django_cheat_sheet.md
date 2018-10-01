@@ -13,10 +13,10 @@ python -m venv ./venv
 
 ```
 # Mac/Linux
-source venv/bin/activate
+source ./venv/bin/activate
 
 # Windows
-venv\Scripts\activate.bat - May need to add full path
+venv\Scripts\activate.bat - May need to add full path (c:\users\....venv\Scripts\activate.bat)
 ```
 
 ### Escape from venv

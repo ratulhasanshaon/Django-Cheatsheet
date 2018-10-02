@@ -59,7 +59,7 @@ python manage.py start app APPNAME
 python manage.py makemigrations
 ```
 
-### Run migrattion
+### Run migration
 ```
 python manage.py migrate
 ```
